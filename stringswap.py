@@ -3,7 +3,6 @@
 Created on Jul 24, 2013
 
 @author: Kevin Evans
-@contact: email:kevinmevans@gmail.com phone: 651-756-9944
 @note: The requirement from the email stated an "array of
 characters" should be passed to the function so I have 
 intentionally used the array type rather than a list. The
